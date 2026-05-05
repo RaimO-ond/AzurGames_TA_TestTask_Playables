@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpritesAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c585857fb3daf6e49ac9659944599e2e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0a34dfd0dc1d28e40b032d1be3460d8b, type: 3}
+  - {fileID: 21300000, guid: e316d3113b97362458c3c7b8a34221c2, type: 3}
+  - {fileID: 21300000, guid: 266f0923ac62fc24288de2bc44d9b283, type: 3}
+  - {fileID: 21300000, guid: f4bd5ce3828d41c4ca2b7e5ab39ac697, type: 3}
+  - {fileID: 21300000, guid: 4c9763352c723da489dc4e5e344fc425, type: 3}
+  - {fileID: 21300000, guid: 2b18dbc703421224a89ac8f241bf8551, type: 3}
+  - {fileID: 21300000, guid: 466046d7aeea49a4fad3c4858e6a21c3, type: 3}
+  - {fileID: 21300000, guid: ed5819982e8bc0a48a21967c5dc95099, type: 3}
+  - {fileID: 21300000, guid: 533ee3d8e562dbd4cb49416df90da9f9, type: 3}
+  - {fileID: 21300000, guid: 6ed09e19fdbd68a498c744820ab887f5, type: 3}
+  - {fileID: 21300000, guid: ec0e58593af58ec4a95bd8334a9e2f93, type: 3}
+  - {fileID: 21300000, guid: de0f8eba8626aeb43ae9567e1995a4de, type: 3}
+  - {fileID: 21300000, guid: 27d0431bdf3e73848af694be16ad13f5, type: 3}
+  - {fileID: 21300000, guid: 9a92bd6eb3dd78a409f81521a961b408, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Heart_128
+  - Door1_closed
+  - Smoke
+  - Barrels
+  - Hand
+  - Smoke_small
+  - Spider
+  - Coin_128
+  - Cloud
+  - Shadow
+  - Door1_open
+  - Fire
+  - Ladder
+  - Barrels_outline
+  m_RenderDataMap: {}
+  m_Tag: SpritesAtlas
+  m_IsVariant: 0
